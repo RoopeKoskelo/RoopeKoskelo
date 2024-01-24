@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**I'm Roope** - I'm a programming student from Finland studying at Koulutuskeskus Salpaus.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,html,css)](https://skillicons.dev)
 <!--
 **RoopeKoskelo/RoopeKoskelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
