@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,html,css)](https://skillicons.dev)
 
-*-also go check out my [neocities site](skrubbys.neocities.org) that I update sometimes for fun-*
+*-also go check out my [neocities site](https://skrubbys.neocities.org) that I update sometimes for fun-*
 <!--
 **RoopeKoskelo/RoopeKoskelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
