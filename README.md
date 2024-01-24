@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Roope** - I'm a programming student from Finland studying at Koulutuskeskus Salpaus.
+**I'm Roope** - a programming student from Finland studying at Koulutuskeskus Salpaus.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,html,css)](https://skillicons.dev)
 
