@@ -2,7 +2,7 @@
 
 **I'm Roope** - a programming student from Finland studying at Koulutuskeskus Salpaus.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,azure,html,css)](https://skillicons.dev)
 
 <!--
 *-also go check out my [neocities site](https://skrubbys.neocities.org) that I update sometimes for fun-*
