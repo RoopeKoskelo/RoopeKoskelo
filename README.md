@@ -2,10 +2,11 @@
 
 **I'm Roope** - a programming student from Finland studying at Koulutuskeskus Salpaus.
 
-[![Roope's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roopekoskelo&theme=omni&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Roope's GitHub stats](https://github-readme-stats.vercel.app/api/?username=roopekoskelo&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-My Skills:
+[![Roope's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=roopekoskelo&theme=omni&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,electron,flutter,azure,html,css)](https://skillicons.dev)
 
