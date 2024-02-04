@@ -2,7 +2,11 @@
 
 **I'm Roope** - a programming student from Finland studying at Koulutuskeskus Salpaus.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,flutter,azure,html,css)](https://skillicons.dev)
+[![Roope's GitHub stats](https://github-readme-stats.vercel.app/api?username=roopekoskelo&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+
+My Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,electron,flutter,azure,html,css)](https://skillicons.dev)
 
 <!--
 *-also go check out my [neocities site](https://skrubbys.neocities.org) that I update sometimes for fun-*
