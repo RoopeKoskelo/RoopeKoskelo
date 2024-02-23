@@ -8,7 +8,7 @@
 
 ## My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,react,electron,flutter,dart,azure,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mysql,mongodb,react,electron,flutter,dart,azure,html,css)](https://skillicons.dev)
 
 <!--
 *-also go check out my [neocities site](https://skrubbys.neocities.org) that I update sometimes for fun-*
